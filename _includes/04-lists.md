@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# A list of my faves
+- Going to the movies
+- Travelling
+- Hanging out with friends
+- Learning new stuff
